@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\Week14OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\Week14OOP.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\Week14OOP.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\Week14OOP.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\bin\Debug\net6.0\Week14OOP.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\bin\Debug\net6.0\Week14OOP.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\bin\Debug\net6.0\Week14OOP.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\bin\Debug\net6.0\Week14OOP.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\bin\Debug\net6.0\Week14OOP.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\Week14OOP.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\refint\Week14OOP.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\Week14OOP.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\Week14OOP.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week14OOP\Week14OOP\obj\Debug\net6.0\ref\Week14OOP.dll
